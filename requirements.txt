@@ -1,0 +1,6 @@
+opencv_python==4.5.2.54
+streamlit==0.84.1
+numpy==1.19.5
+deepface==0.0.79
+mediapipe==0.9.1.0
+Pillow==9.4.0
