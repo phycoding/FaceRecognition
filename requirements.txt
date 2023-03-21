@@ -1,4 +1,4 @@
-opencv_python==4.5.2.54
+opencv_python==4.5.5.64
 streamlit==0.84.1
 numpy==1.19.5
 deepface==0.0.79
